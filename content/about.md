@@ -1,8 +1,8 @@
 +++
 date = "2017-05-27T11:48:11Z"
-description = "Software Engineer"
+description = "Ahmed Rashad Mohamed"
 sidemenu = "true"
-tags = ["Windows", "UWP", "c#", "Walking", "Python"]
+tags = ["Windows", "UWP", "C#", "Walking", "Python"]
 title = "about"
 topics = []
 

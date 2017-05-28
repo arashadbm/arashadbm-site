@@ -1,9 +1,9 @@
 +++
-date = "2017-05-28T16:23:55+02:00"
+date = "2017-05-28T16:23:55"
 description = ""
-tags = []
+tags = ["Windows", "UWP", "C#","ListView", "Tips", "Performance"]
 title = "Uwp ListView Tips And Common Mistakes"
-topics = []
+topics = ["UWP"]
 
 +++
 
