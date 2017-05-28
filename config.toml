@@ -7,6 +7,7 @@ theme = "blackburn"
 paginate = 10
 canonifyurls = true
 googleAnalytics = "UA-100057150-1"
+disqusShortname = "arashadbm"
 
 [indexes]
   tag = "tags"

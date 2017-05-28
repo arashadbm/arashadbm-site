@@ -119,3 +119,5 @@ Okay so how can I find element count without all of these calculations?
 By using [Visual Live Tree inspector](https://msdn.microsoft.com/en-us/library/mt270227.aspx) which is part of Visual studio. 
 
 ![Visual Live Tree](/img/visual_live_tree.png)
+
+
