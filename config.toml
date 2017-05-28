@@ -1,6 +1,50 @@
-baseURL = "www.arashadbm.com"
+baseurl = "http://www.arashadbm.com/"
 languageCode = "en-us"
-title = "Ahmed Rashad Mohamed"
+title = "Yet Another Tech & Life blog"
+Author = "Ahmed Rashad Mohamed"
 newContentEditor = "nano"
 theme = "blackburn"
-pygmentsStyle = "native"
+paginate = 10
+canonifyurls = true
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+
+[params]
+  subtitle = "Ahmed Rashad Mohamed"
+  brand= "ARashadBM"
+  dateformat = "21 May 2017, 16:20"
+  highlightjs = "androidstudio"  
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+
+[social]
+
+ twitter = "arashadbm"
+ linkedin = "arashadbm"
+ github = "arashadbm"
+ stackoverflow = "2086772"
+
