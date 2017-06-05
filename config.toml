@@ -6,8 +6,6 @@ newContentEditor = "nano"
 theme = "blackburn"
 paginate = 10
 canonifyurls = true
-googleAnalytics = "UA-100057150-1"
-disqusShortname = "arashadbm"
 
 [indexes]
   tag = "tags"
@@ -18,7 +16,9 @@ disqusShortname = "arashadbm"
   subtitle = "Ahmed Rashad Mohamed"
   brand= "ARashadBM"
   dateformat = "2 Jan 2006, 15:04:05 MST"
-  highlightjs = "androidstudio"  
+  highlightjs = "androidstudio"
+  googleAnalytics = "UA-100057150-1"
+  disqusShortname = "arashadbm" 
 
 
 [menu]
